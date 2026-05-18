@@ -16,8 +16,6 @@ Praticar desenvolvimento web
 Construir presença profissional no GitHub
 Evoluir minhas habilidades em programação
 
-# Linkedin
-
 🔗 ## LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/antonio-neto-28223b3b3/)
