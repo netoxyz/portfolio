@@ -15,3 +15,7 @@ Compartilhar meus projetos
 Praticar desenvolvimento web
 Construir presença profissional no GitHub
 Evoluir minhas habilidades em programação
+
+# Linkedin
+
+🔗 https://www.linkedin.com/in/antonio-neto-28223b3b3/
