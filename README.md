@@ -18,4 +18,7 @@ Evoluir minhas habilidades em programação
 
 # Linkedin
 
-🔗 https://www.linkedin.com/in/antonio-neto-28223b3b3/
+🔗 ## LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/antonio-neto-28223b3b3/)
+
