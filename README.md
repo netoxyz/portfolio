@@ -1,5 +1,3 @@
-# portfolio
-
 # Portfólio Pessoal
 
 Este repositório contém o desenvolvimento do meu portfólio pessoal e profissional, criado com o objetivo de apresentar meus projetos, estudos, habilidades e evolução na área de tecnologia.
